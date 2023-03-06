@@ -1,7 +1,7 @@
 {
     "name": "GitHub Copilot CLI",
     "id": "copilot-cli",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Installs the GitHub Copilot CLI and sets up shell aliases for the CLI",
     "options": {
     },
