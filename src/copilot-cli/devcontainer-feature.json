@@ -1,0 +1,12 @@
+{
+    "name": "GitHub Copilot CLI",
+    "id": "copilot-cli",
+    "version": "0.0.1",
+    "description": "Installs the GitHub Copilot CLI and sets up shell aliases for the CLI",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/node"
+    ]
+}

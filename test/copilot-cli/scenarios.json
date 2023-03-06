@@ -1,0 +1,10 @@
+{
+    "install-on-image-with-npm": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "ghcr.io/devcontainers/features/node:1": {},
+            "copilot-cli": {}
+        },
+        "remoteUser": "vscode"
+    }
+}
